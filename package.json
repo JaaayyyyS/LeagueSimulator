@@ -1,0 +1,27 @@
+{
+  "name": "leaguesimulator",
+  "version": "1.0.0",
+  "description": "League and Cup application",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaaayyyyS/LeagueSimulator.git"
+  },
+  "keywords": [
+    "League",
+    "Simulator"
+  ],
+  "author": "João Vitor Barbosa Pontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaaayyyyS/LeagueSimulator/issues"
+  },
+  "homepage": "https://github.com/JaaayyyyS/LeagueSimulator#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
